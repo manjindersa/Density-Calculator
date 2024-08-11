@@ -1,5 +1,3 @@
-# Section 1 - Complete by Komalpreet Kaur
-
 def calculate_density(objects):
     density_dict = {}
     for key, (mass, volume) in objects.items():
